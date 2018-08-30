@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/b
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Baltimore Open311
-created: "2018-08-27"
-modified: "2018-08-27"
+created: "2018-08-29"
+modified: "2018-08-29"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/baltimore-open311/master/_listings/baltimore-open311/apis.md
 specificationVersion: "0.14"
 apis:
